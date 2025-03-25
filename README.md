@@ -1,4 +1,4 @@
-# syntax error
+# PaperTrade
 This is my project PaperTrade which I made for Syntax Error 2023.<br>
 It is a Tkinter based GUI application which shows live prices of all the stocks listed on NSE and any other stock exchange.<br>
 It also fetches the data of last 27 years  of daily opening and closing price of many stocks and displays their life time graph.<br>
